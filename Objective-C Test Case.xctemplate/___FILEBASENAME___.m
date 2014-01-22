@@ -1,6 +1,6 @@
-#import <SenTestingKit/SenTestingKit.h>
+#import <XCTest/XCTest.h>
 
-@interface ___FILEBASENAMEASIDENTIFIER___ : SenTestCase
+@interface ___FILEBASENAMEASIDENTIFIER___ : XCTestCase
 @end
 
 @implementation ___FILEBASENAMEASIDENTIFIER___

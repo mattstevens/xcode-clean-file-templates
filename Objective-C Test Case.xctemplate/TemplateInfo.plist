@@ -12,7 +12,7 @@
 	<key>DefaultCompletionName</key>
 	<string>Test</string>
 	<key>Description</key>
-	<string>An Objective-C class containing an OCUnit test case.</string>
+	<string>An Objective-C class containing an XCUnit test case.</string>
 	<key>Kind</key>
 	<string>Xcode.IDEKit.TextSubstitutionFileTemplateKind</string>
 	<key>MainTemplateFile</key>
@@ -35,6 +35,6 @@
 		</dict>
 	</array>
 	<key>Summary</key>
-	<string>An Objective-C class containing an OCUnit test case with a header</string>
+	<string>An Objective-C class containing an XCUnit test case</string>
 </dict>
 </plist>
