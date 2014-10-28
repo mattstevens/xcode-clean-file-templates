@@ -1,4 +1,4 @@
-# Clean File Templates for Xcode 4
+# Clean File Templates for Xcode 6
 
 A set of bare bones Objective-C templates that include nothing but an `#import` appropriate for the base class, an `@interface` and an `@implementation`. Useful if you find yourself frequently deleting copyright headers and default method implementations.
 
