@@ -1,1 +1,0 @@
-../NSObject/___FILEBASENAME___.m
