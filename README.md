@@ -10,6 +10,6 @@ Create the user file templates directory if necessary and navigate to it:
 
 Clone the repository into a directory of your choice. This directory will be used as the category name in Xcode.
 
-    git clone https://github.com/mattstevens/xcode-clean-file-templates.git Clean
+    git clone https://github.com/bejo/xcode-clean-file-templates.git Clean
 
 Xcode should automatically detect the new templates.
